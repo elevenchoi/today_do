@@ -1,0 +1,15 @@
+# Flutter/Dart/Pub related
+**/build/
+.dart_tool/
+.packages
+.pub/
+
+# IDEs and editors
+.idea/
+*.iml
+
+# Generated files
+flutter_*.png
+
+# Others
+.DS_Store
